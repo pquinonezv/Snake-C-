@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477517346 source:c:\users\pedro.quinonez\desktop\serpentina\main.cpp
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
